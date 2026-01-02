@@ -6,7 +6,7 @@ ML model that predicts the price for selling used cars
 
 Below is a sample visualization of the model's predictions:
 
-![Model Predictions](./images/predictions_plot.png)
+![Model Predictions](./imgs/visualizing-predictions.png)
 
 ## License
 
